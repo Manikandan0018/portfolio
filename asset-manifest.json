@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b819802a.css",
+    "main.js": "/portfolio/static/js/main.6753b316.js",
+    "static/media/trust.png": "/portfolio/static/media/trust.6fcfa9e30b795f48896c.png",
+    "static/media/kovai.png": "/portfolio/static/media/kovai.433eda96eb3a5af1708b.png",
+    "static/media/carRental.png": "/portfolio/static/media/carRental.18c00d4df7eee7bf0f74.png",
+    "static/media/twitter.png": "/portfolio/static/media/twitter.904912f68f6fbf94f4b0.png",
+    "static/media/portfolioWeb.png": "/portfolio/static/media/portfolioWeb.0e57eba15eda0c400dd5.png",
+    "static/media/portfolio.jpg": "/portfolio/static/media/portfolio.8ff71afa90154e0327ac.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.b819802a.css.map": "/portfolio/static/css/main.b819802a.css.map",
+    "main.6753b316.js.map": "/portfolio/static/js/main.6753b316.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b819802a.css",
+    "static/js/main.6753b316.js"
+  ]
+}
